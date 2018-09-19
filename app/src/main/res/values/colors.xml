@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8BC34A</color>
+    <color name="colorPrimaryDark">#689F38</color>
+    <color name="colorAccent">#4CAF50</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorGray">#888888</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorPink">#ff739b</color>
+    <color name="colorRed">#ff0000</color>
+    <color name="colorYellow">#ffc80a</color>
+    <color name="colorGreen">#8cc850</color>
+    <color name="colorBlue">#2096ff</color>
+    <color name="colorViolet">#9c28b0</color>
+
+    <color name="colorLightBack">#FAFAFA</color>
+    <color name="colorDeepBack">#DDDDDD</color>
+    <color name="colorDeepDeepBack">#BBBBBB</color>
+
+    <color name="colorLightBlue">#aaccff</color>
+    <color name="colorDeepBlue">#3366aa</color>
+
+    <color name="nav_background">#FFFFFF</color>
+
+    <color name="buttonColor">#1d9df2</color>
+    <color name="buttonTextColor">#ffffff</color>
+
+    <!-- fab colors -->
+    <color name="fabColorNormal">@color/colorAccent</color>
+    <color name="fabColorRipple">@color/colorAccent</color>
+    <color name="fabColorPressed">@color/colorAccent</color>
+
+    <color name="lightBlue500">#03a9f4</color>
+    <color name="lightBlue400">#29b6f6</color>
+    <color name="lightBlue300">#4fc3f7</color>
+
+    <color name="text_selected">#888</color>
+
+</resources>

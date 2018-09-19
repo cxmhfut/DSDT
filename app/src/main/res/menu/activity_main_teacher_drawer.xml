@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/teacher_user"
+            android:checked="true"
+            android:icon="@drawable/ic_manage_user"
+            android:title="查看成绩" />
+
+    </group>
+
+    <item android:title="系统设置">
+        <menu>
+            <item
+                android:id="@+id/teacher_logout"
+                android:icon="@drawable/ic_exit"
+                android:title="退出管理" />
+        </menu>
+    </item>
+
+</menu>

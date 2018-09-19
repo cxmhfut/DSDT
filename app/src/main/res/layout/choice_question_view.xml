@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="8dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_questionstem"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="题干"
+            android:textColor="@android:color/black"
+            android:textSize="18sp" />
+
+
+        <RadioGroup
+            android:id="@+id/rg_ans"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="8dp">
+
+            <RadioButton
+                android:id="@+id/rb_A"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="A"
+                android:textSize="18sp" />
+
+            <RadioButton
+                android:id="@+id/rb_B"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="B"
+                android:textSize="18sp" />
+
+            <RadioButton
+                android:id="@+id/rb_C"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="C"
+                android:textSize="18sp" />
+
+            <RadioButton
+                android:id="@+id/rb_D"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="D"
+                android:textSize="18sp" />
+
+        </RadioGroup>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/tv_questionanalysis"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:text="题目解析"
+                android:textColor="@android:color/black"
+                android:textSize="18sp" />
+        </ScrollView>
+
+    </LinearLayout>
+
+    <com.dd.CircularProgressButton
+        android:id="@+id/sureBtn"
+        android:layout_width="128dp"
+        android:layout_height="64dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="16dp"
+        android:layout_alignParentBottom="true"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        app:cpb_cornerRadius="48dp"
+        app:cpb_iconComplete="@drawable/ic_action_accept"
+        app:cpb_iconError="@drawable/ic_action_cancel"
+        app:cpb_textIdle="@string/sure" />
+
+
+</RelativeLayout>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="chapter">
+        <item>绪论</item>
+        <item>线性表</item>
+        <item>栈和队列</item>
+        <item>串</item>
+        <item>数组与广义表</item>
+        <item>树和二叉树</item>
+        <item>图</item>
+        <item>查找</item>
+        <item>排序</item>
+    </string-array>
+    <string-array name="permission">
+        <item>学生</item>
+        <item>教师</item>
+        <item>管理员</item>
+    </string-array>
+    <string-array name="qmodule">
+        <item>顺序答题</item>
+        <item>章节答题</item>
+        <item>随机答题</item>
+        <item>模拟考试</item>
+    </string-array>
+    <string-array name="school">
+        <item>安庆师范大学</item>
+        <item>其他</item>
+    </string-array>
+</resources>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\exploded-aar\com.github.dmytrodanylyk.circular-progress-button\library\1.1.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8a6ed980c74ad35b2dfc4e1daf97bfc0eea5d7c9">
+        <dex dex="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\pre-dexed\debug\com.github.dmytrodanylyk.circular-progress-button-library-1.1.3_e9c64e14f42a43b674cbba6aa9725f15600e9ac0.jar" />
+    </item>
+    <item
+        jar="E:\Workspaces\MyApplication\DSDT\app\libs\volley.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c3a7127079ec88fd22c96c4ccadfec2fd3d28998">
+        <dex dex="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\pre-dexed\debug\volley_a58797ec370ca9782c718902d5f21b818239b64b.jar" />
+    </item>
+    <item
+        jar="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_699f0e78be0a61d2e7d2701d382b7cfd53f8b767.jar" />
+    </item>
+    <item
+        jar="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\exploded-aar\com.hrules\charter\1.5.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8c9d2e60de80aa4e95eafae09595f1b61c05d531">
+        <dex dex="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\pre-dexed\debug\com.hrules-charter-1.5.1_af774ed4a11cc98ac8d5823f6f4804ebc16efea3.jar" />
+    </item>
+    <item
+        jar="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_f74741f05602a60976f6441c5bef67b643c7251f.jar" />
+    </item>
+    <item
+        jar="E:\Workspaces\MyApplication\DSDT\app\libs\jackson-all-1.9.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bd33d9a33708316e793581e9e6f6f2c6d2b98c6f">
+        <dex dex="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\pre-dexed\debug\jackson-all-1.9.4_8c0950e90d0fdf38a2b2cc7157e83015f9188985.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\pre-dexed\debug\library-2.4.0_dd460f45d27a359687729c3c169358b1eda3100b.jar" />
+    </item>
+    <item
+        jar="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\exploded-aar\me.drakeet.materialdialog\library\1.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6e57fe155cea810fb2ba5fe9ffabcb197ecf81d1">
+        <dex dex="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\pre-dexed\debug\me.drakeet.materialdialog-library-1.3.1_4ea18ee3ce555c14327c89f8b8391c4358ba0693.jar" />
+    </item>
+    <item
+        jar="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\exploded-aar\com.rengwuxian.materialedittext\library\2.1.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="288913b440a3c61c30aa171095453a605432277a">
+        <dex dex="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\pre-dexed\debug\com.rengwuxian.materialedittext-library-2.1.4_abde83d0b8fb65356718ec826ff5e172e7710bb1.jar" />
+    </item>
+    <item
+        jar="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_aabef52595ffdb85c8a3e7d573ef53a5fb3f9fa5.jar" />
+    </item>
+    <item
+        jar="E:\Workspaces\MyApplication\DSDT\app\libs\DaoCore-1.3.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dadcf87509476af8c4df20e68d1adbe15a4f0974">
+        <dex dex="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\pre-dexed\debug\DaoCore-1.3.0_afb52138640b7d6fc64de5e46e2cb4afd3b1f07c.jar" />
+    </item>
+    <item
+        jar="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_40690b082fc36f1dafa00f88bf28ebe3e7329d46.jar" />
+    </item>
+    <item
+        jar="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\exploded-aar\net.grandcentrix.tray\tray\0.9.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ed6596aa68060dd3e4c15ba3c4d98f8622f7212c">
+        <dex dex="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\pre-dexed\debug\net.grandcentrix.tray-tray-0.9.2_22c02357ef85c97aaa7e3b6374f7d9b736ea93d6.jar" />
+    </item>
+    <item
+        jar="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.1_f57ef59828043af5b3e2ec6abec7f4041705871d.jar" />
+    </item>
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_6c2a284fdd61d0d8ac24aa3991d9cfbc35ef85c7.jar" />
+    </item>
+    <item
+        jar="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\exploded-aar\com.mikepenz\community-material-typeface\1.3.41.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="25f0ed3aa7988dc42d6c1008b20df420cc94d958">
+        <dex dex="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\pre-dexed\debug\com.mikepenz-community-material-typeface-1.3.41.1_7ed5fe897ae6a4b92207d6e21969c059fa389599.jar" />
+    </item>
+    <item
+        jar="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\exploded-aar\com.github.clans\fab\1.6.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7e6a161b3796c15fe00755ce47e03067e568ecc4">
+        <dex dex="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\pre-dexed\debug\com.github.clans-fab-1.6.2_9867b96f034e92dc6faff5dcf4af85a7d7b6567e.jar" />
+    </item>
+    <item
+        jar="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_4dd418667544d06b59352375903335177f77a1fe.jar" />
+    </item>
+    <item
+        jar="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.1_da6ffd6b87cd94920846e2b1917c189646525739.jar" />
+    </item>
+    <item
+        jar="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
+        <dex dex="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.2.1_be0cf514eaea9c1481926115bc3be3e03dfc40b4.jar" />
+    </item>
+    <item
+        jar="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\exploded-aar\com.weiwangcn.betterspinner\library-material\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d8c5463a1a50691e2cf66cd7ce4751c8545b584">
+        <dex dex="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\pre-dexed\debug\com.weiwangcn.betterspinner-library-material-1.1.0_6c1b8261bd54e8bfb75942dbcf2270cff6b4e24e.jar" />
+    </item>
+    <item
+        jar="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\exploded-aar\com.daimajia.numberprogressbar\library\1.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4196173ec5799ff211761f90874802789c6cc4ac">
+        <dex dex="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\pre-dexed\debug\com.daimajia.numberprogressbar-library-1.2_f06c5a72a07b154628fd97a6e519fd8e9743cb80.jar" />
+    </item>
+    <item
+        jar="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\exploded-aar\me.xiaopan\spiderwebscoreview\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6752089f5e0891f423538d9b509968e390a7925b">
+        <dex dex="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\pre-dexed\debug\me.xiaopan-spiderwebscoreview-1.0.0_771ec4630e7eed197458f5a5f3c53aa26b1bf175.jar" />
+    </item>
+    <item
+        jar="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\exploded-aar\com.mikepenz\iconics-core\2.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d8bb5a251e187e0e659634d478656bcce2841149">
+        <dex dex="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\pre-dexed\debug\com.mikepenz-iconics-core-2.5.0_04bfd2d694fe55eb99be69fd649fe2ef9bc7892f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\6.1.0\63735f48b82bcd24cdd33821342428252eb1ca5a\butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\pre-dexed\debug\butterknife-6.1.0_69d2d3c27627661806f0bd051a18a12cc184adc9.jar" />
+    </item>
+    <item
+        jar="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\exploded-aar\com.github.blackfizz\eazegraph\1.2.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2584bbecc58c666b0e064ebce64f67a46bfa2aba">
+        <dex dex="E:\Workspaces\MyApplication\DSDT\app\build\intermediates\pre-dexed\debug\com.github.blackfizz-eazegraph-1.2.2_f1e10fbe6f99be7189f4c70e08481cde07179318.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:layout_marginTop="56dp"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/bt_chapter_begin"
+        android:layout_width="128dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:background="@drawable/button_select"
+        android:gravity="center"
+        android:textColor="@color/colorWhite"
+        android:textSize="18sp"
+        android:text="开始第1章节"/>
+
+    <com.zy.dsdt.view.RecentsList
+        android:id="@+id/recents"
+        android:padding="36dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</LinearLayout>

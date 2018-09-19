@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/common_toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+        </android.support.v7.widget.Toolbar>
+
+    </android.support.design.widget.AppBarLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="12dp"
+        android:gravity="center_horizontal">
+
+        <TextView
+            android:id="@+id/tv_show_grade_grade"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="您答对了10道题"
+            android:textColor="@android:color/holo_green_light"
+            android:textSize="40sp" />
+
+        <TextView
+            android:id="@+id/tv_show_grade_credits"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="此次答题获得10个积分"
+            android:textColor="@android:color/holo_blue_dark"
+            android:textSize="15sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:padding="8dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tv_bar_chart_grade_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="4dp"
+            android:minWidth="@dimen/bar_chart_min_width"
+            android:text="0"/>
+
+        <TextView
+            android:id="@+id/tv_bar_chart_grade_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/bar_chart_margin_left"
+            android:minWidth="@dimen/bar_chart_min_width"
+            android:text="0"/>
+
+        <TextView
+            android:id="@+id/tv_bar_chart_grade_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/bar_chart_margin_left"
+            android:minWidth="@dimen/bar_chart_min_width"
+            android:text="0"/>
+
+        <TextView
+            android:id="@+id/tv_bar_chart_grade_4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/bar_chart_margin_left"
+            android:minWidth="@dimen/bar_chart_min_width"
+            android:text="0"/>
+
+        <TextView
+            android:id="@+id/tv_bar_chart_grade_5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/bar_chart_margin_left"
+            android:minWidth="@dimen/bar_chart_min_width"
+            android:text="0"/>
+
+        <TextView
+            android:id="@+id/tv_bar_chart_grade_6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/bar_chart_margin_left"
+            android:minWidth="@dimen/bar_chart_min_width"
+            android:text="0"/>
+
+        <TextView
+            android:id="@+id/tv_bar_chart_grade_7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/bar_chart_margin_left"
+            android:minWidth="@dimen/bar_chart_min_width"
+            android:text="0"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <com.hrules.charter.CharterYLabels
+            android:id="@+id/charter_bar_YLabels_question"
+            android:layout_width="20dp"
+            android:layout_height="150dp"/>
+
+        <com.hrules.charter.CharterBar
+            android:id="@+id/charter_bar_with_YLabels_question"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:padding="8dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="4dp"
+            android:text="总"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/bar_chart_margin_left"
+            android:text="选总"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/bar_chart_margin_left"
+            android:text="填总"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/bar_chart_margin_left"
+            android:text="总对"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/bar_chart_margin_left"
+            android:text="总错"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/bar_chart_margin_left"
+            android:text="选对"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/bar_chart_margin_left"
+            android:text="填对"/>
+
+    </LinearLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_marginTop="8dp"
+        android:clipChildren="false">
+
+        <me.xiaopan.swsv.SpiderWebScoreView
+            android:id="@+id/spiderWeb_show_grade_chapter"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center" />
+
+        <me.xiaopan.swsv.CircularLayout
+            android:id="@+id/circular_show_grade_chapter"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            android:clipChildren="false"/>
+    </FrameLayout>
+
+</LinearLayout>

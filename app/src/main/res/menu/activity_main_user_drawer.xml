@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/back_home"
+            android:checked="true"
+            android:icon="@drawable/ic_back_home"
+            android:title="回到首页" />
+        <item
+            android:id="@+id/sequential_question"
+            android:icon="@drawable/ic_sequential_question"
+            android:title="顺序答题" />
+        <item
+            android:id="@+id/chapter_question"
+            android:icon="@drawable/ic_chapter_question"
+            android:title="章节答题" />
+        <item
+            android:id="@+id/random_question"
+            android:icon="@drawable/ic_random_question"
+            android:title="随机答题" />
+        <item
+            android:id="@+id/exam_test"
+            android:icon="@drawable/ic_exam_test"
+            android:title="模拟考试" />
+        <item
+            android:id="@+id/wrong_question"
+            android:icon="@drawable/ic_wrong_question"
+            android:title="我的错题" />
+        <item
+            android:id="@+id/my_grade"
+            android:icon="@drawable/ic_show_grade"
+            android:title="我的成绩" />
+    </group>
+
+
+    <item android:title="系统设置">
+        <menu>
+            <item
+                android:id="@+id/change_info"
+                android:icon="@drawable/ic_change_info"
+                android:title="修改资料" />
+            <item
+                android:id="@+id/question_setting"
+                android:icon="@drawable/ic_manage_user"
+                android:title="题目设置" />
+            <item
+                android:id="@+id/about_application"
+                android:icon="@drawable/ic_about_application"
+                android:title="关于应用" />
+        </menu>
+    </item>
+</menu>
